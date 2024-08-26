@@ -1,0 +1,6 @@
+.env
+.DS_Store
+node_modules
+
+src/contributors.csv
+src/verified.csv
